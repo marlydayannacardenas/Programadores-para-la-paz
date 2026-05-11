@@ -1,0 +1,3 @@
+1:​Repositorio: Es como una carpeta inteligente donde guardo todo mi proyecto. No solo guarda los archivos, sino que también lleva la cuenta de cada cambio que le hago.
+2:Commit: Es como darle a "Guardar" de forma oficial. Con esto confirmo que los cambios que hice están bien y les pongo una etiqueta para saber qué arreglé o qué agregué.
+3:Push: Es el paso final para mandar mi trabajo desde mi computadora (o el celular con Termux) hasta la nube en GitHub. Así mi código queda seguro y otros lo pueden ver.
