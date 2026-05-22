@@ -1,0 +1,5 @@
+Para mí, la tecnología tiene que servir para ayudar a la gente y mejorar la vida en la comunidad. Cuando las iniciativas ciudadanas y los líderes comunitarios aprendemos a usar herramientas abiertas como Node.
+js, ganamos una independencia tremenda, porque podemos crear nuestras propias soluciones sin tener que depender de que un tercero nos cobre o nos ponga trabas.
+No es lo mismo usar una aplicación genérica de internet que construir algo pensado exactamente para las necesidades reales de nuestro sector, ya sea para organizar un proyecto, gestionar recursos o comunicarnos mejor. 
+Además, estas tecnologías son libres y gratuitas, lo que permite que cualquier persona con ganas de aprender pueda meterse en este mundo y aportar al barrio. 
+Al final, se trata de demostrar que desde las comunidades también podemos liderar la innovación tecnológica, usando el conocimiento como una herramienta de unión y transformación social para el beneficio de todos.
