@@ -1,1 +1,0 @@
-pwd, ls, mkdir semana2, cd semana2, touch
