@@ -1,0 +1,10 @@
+Las APIs representan una herramienta de transformación social masiva para nuestras comunidades.
+Al permitir que diferentes sistemas de cómputo interactúen e intercambien datos de forma automática,
+abren la puerta al desarrollo de aplicaciones locales destinadas a resolver necesidades cotidianas.
+Por ejemplo, mediante una API se pueden centralizar las alertas vecinales, gestionar solicitudes
+de infraestructura vial, agilizar peticiones de servicios públicos o coordinar donaciones.
+Esto empodera directamente a los líderes y habitantes, reduciendo las barreras de comunicación.
+La tecnología deja de ser un concepto abstracto y se convierte en un canal real de participación.
+Aprender a construir servidores con Express nos da el control para estructurar estas soluciones,
+haciendo que los datos de un barrio se organicen y trabajen activamente en beneficio de la gente.
+

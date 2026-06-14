@@ -1,0 +1,8 @@
+http://localhost:3000
+Al ingresar a esta ruta, el navegador muestra el texto "Servidor activo", confirmando que el backend está corriendo correctamente.
+
+http://localhost:3000/saludo
+Esta ruta devuelve el texto estático "Hola comunidad" en la pantalla del navegador.
+
+http://localhost:3000/mensaje/Marly
+Al agregar un nombre al final de la URL (por ejemplo, /Marly), el servidor lo lee dinámicamente mediante los parámetros y responde con un saludo personalizado: "Hola Marly".
