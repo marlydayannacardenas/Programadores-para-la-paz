@@ -1,0 +1,4 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que la luminaria de la calle principal se encuentra intermitente desde hace tres días, afectando la seguridad del sector por las noches."
+}
