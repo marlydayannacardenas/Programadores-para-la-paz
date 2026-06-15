@@ -2,4 +2,3 @@ Es muy importante que las plataformas tecnológicas reciban los reportes de form
 Cuando un vecino hace un reclamo, si los datos llegan ordenados en casillas claras como el "tipo de problema" y la "descripción", el sistema los puede clasificar al instante sin perder tiempo leyendo textos largos o confusos.
 Para quienes gestionamos y buscamos mejoras en el barrio, esto es una gran herramienta, ya que permite priorizar las urgencias, como la falta de alumbrado o el arreglo de una calle, y pasarle el reporte exacto a los encargados. 
 Al final, la tecnología bien estructurada hace que la comunicación entre los ciudadanos y las soluciones sea directa, evitando que los problemas se queden guardados en un papel y logrando respuestas reales para el sector.
-
