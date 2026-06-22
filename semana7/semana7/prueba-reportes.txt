@@ -1,0 +1,2 @@
+Cuando hacemos la consulta con el método GET a la ruta de reportes, lo que pasa es que el sistema nos muestra una lista limpia con todo lo que la gente ha reportado. El servidor nos devuelve un código de éxito y nos entrega los datos organizados en formato JSON. Lo mejor es que el sistema le asigna automáticamente un número de identificación único ("id") a cada caso, además de mantener el tipo de problema y la descripción que registramos antes con el POST. Así podemos llevar un control real de cada solicitud.
+

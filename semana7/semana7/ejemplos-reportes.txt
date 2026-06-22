@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Servicios Públicos",
+  "descripcion": "Baja presión en el servicio de agua potable y cortes intermitentes"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Vías",
+  "descripcion": "Falta de pavimentación y presencia de huecos en la calle principal"
+}
