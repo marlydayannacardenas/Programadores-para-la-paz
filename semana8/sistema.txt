@@ -1,0 +1,5 @@
+Comando uname -a: Este comando sirve para ver los datos completos del sistema operativo y del corazón de Linux (el kernel). Te muestra la versión exacta que tiene instalada y si la máquina trabaja a 32 o 64 bits.
+
+Comando whoami: Nos dice de una vez y sin rodeos cuál es el usuario que tiene la sesión abierta en la terminal en ese instante.
+
+Por qué sirve para administrar un servidor: Esto es clave porque un buen administrador necesita saber con qué usuario está parado en la terminal para no ir a borrar algo importante sin culpa. También sirve para revisar si el sistema está al día con las actualizaciones de seguridad o si hay que meterle algún parche para que no se metan los intrusos.

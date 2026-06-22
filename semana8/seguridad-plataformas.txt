@@ -1,0 +1,5 @@
+1. Cuidar los datos de los vecinos: No dejar a la vista de todo el mundo teléfonos, direcciones ni documentos de la comunidad para evitar que los usen para estafas.
+2. Contraseñas que aguanten: Exigir claves largas y con caracteres raros, y guardarlas bien protegidas para que nadie se las copie.
+3. Conexiones que viajen seguras: Utilizar siempre el protocolo HTTPS para que la información que se sube a la plataforma viaje bien protegida por la red.
+4. Llevar un control de quién entra: Dejar un registro o historial de quién ingresa al sistema y qué cambios hace, por si pasa algo raro saber de dónde vino.
+5. Permisos solo a los encargados: No darle acceso total a cualquiera; la información sensible del barrio solo la deben manejar los líderes o administradores autorizados.
