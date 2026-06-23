@@ -1,0 +1,9 @@
+1:​Sistema operativo: Es la base de la computadora que maneja todo el equipo y permite que los programas de desarrollo funcionen sin problemas.
+
+2:​Node.js: Es la herramienta que usamos para que JavaScript pueda correr desde la computadora y manejar la lógica detrás de la página.
+
+3:​Aplicación server.js: Es nuestro archivo principal, donde programamos las rutas y todo lo que el servidor debe responder cuando la gente entra.
+
+4:​Puerto: Es como una puerta digital numerada por donde entran las visitas y las solicitudes a nuestra aplicación.
+
+5:​Logs: Es el cuaderno de notas del servidor, donde se anota todo lo que pasa en el día, los ingresos y los errores que ocurren para poder arreglarlos.

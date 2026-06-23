@@ -1,0 +1,1 @@
+Al escribir node server.js en la terminal, el computador enciende el servidor y nos avisa con un mensaje que ya está listo y escuchando en el puerto. Cuando entramos a la ruta /estado, la pantalla nos muestra un texto organizado con los datos de la aplicación, confirmando que todo está marchando bien.
