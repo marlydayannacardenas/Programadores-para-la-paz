@@ -1,0 +1,8 @@
+Evento que activa la automatización:
+Registro exitoso de una nueva causa comunitaria en la plataforma.
+
+Mensaje que se envía:
+"¡Nueva causa comunitaria registrada! Se ha creado la propuesta titulada '{titulo}' en nuestra plataforma. Únete y apoya esta iniciativa para mejorar nuestro sector."
+
+Información que no debe enviarse por seguridad:
+No se deben incluir nombres completos, números de cédula, números de teléfono de contacto, direcciones exactas de los hogares ni comentarios privados o sensibles de los ciudadanos.

@@ -1,0 +1,17 @@
+Causa
+- id
+- titulo
+- descripcion
+- fecha
+
+Propósito de Causa:
+Esta entidad sirve para registrar de manera estructurada cada una de las peticiones o necesidades planteadas por los vecinos, permitiendo que sean visibles y ordenadas en la plataforma.
+
+Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+
+Propósito de Apoyo:
+Esta entidad se encarga de almacenar cada respaldo individual que recibe una causa específica, permitiendo vincular de forma segura a los participantes con la petición que deciden apoyar sin exponer datos innecesarios.

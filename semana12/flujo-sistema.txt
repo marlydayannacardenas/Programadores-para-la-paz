@@ -1,0 +1,5 @@
+1. Un ciudadano ingresa a la plataforma y registra una causa o necesidad de su comunidad.
+2. La causa queda registrada de forma organizada y segura en la base de datos del sistema.
+3. Otros vecinos y miembros de la comunidad ingresan para leer la propuesta y dejar su apoyo digital.
+4. El sistema lleva la cuenta automática de todos los apoyos y firmas que recibe la causa.
+5. El sistema procesa los datos y genera un documento PDF formal listo para ser descargado y presentado ante las autoridades.
