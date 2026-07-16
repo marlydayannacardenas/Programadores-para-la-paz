@@ -1,0 +1,10 @@
+Una plataforma de participación ciudadana requiere obligatoriamente
+una base de datos para almacenar de forma estructurada los proyectos,
+las propuestas y los registros de los usuarios que interactúan en ella.
+La autenticación de usuarios es el pilar que garantiza que cada voto,
+firma o apoyo registrado sea de un ciudadano real y no una suplantación.
+Esto evita fraudes, duplicados y manipulaciones dentro de las consultas.
+Además, proteger la información sensible es indispensable para cuidar
+la privacidad de los líderes comunitarios y de todos los participantes.
+Sin estas medidas de seguridad, las personas no confiarían en la web,
+poniendo en riesgo el éxito y la transparencia del proyecto social.
