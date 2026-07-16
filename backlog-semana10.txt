@@ -1,0 +1,10 @@
+HISTORIAS DE USUARIO - VEEDURÍA Y MEJORAS COMUNITARIAS
+
+[ALTA PRIORIDAD]
+1. Como vecino afectado, quiero reportar una vía en mal estado o una luminaria dañada con fotos y ubicación para que la junta comunitaria tenga evidencia del problema.
+
+[MEDIA PRIORIDAD]
+2. Como coordinador de la junta, quiero recibir una alerta automática en Telegram cada vez que un vecino registre un nuevo reporte para revisarlo rápidamente.
+
+[BAJA PRIORIDAD]
+3. Como miembro de la comunidad, quiero consultar una lista pública de los reportes realizados y ver si ya están en proceso de solución para hacer seguimiento al proyecto.

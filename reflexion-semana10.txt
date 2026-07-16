@@ -1,0 +1,11 @@
+Las metodologías ágiles, la automatización y herramientas como Telegram son pilares
+clave para transformar y estructurar la participación y el desarrollo comunitario.
+Al aplicar el concepto de backlog, los líderes y vecinos pueden organizar de forma
+transparente y ordenada las prioridades urgentes del barrio, como la reparación de
+calles o la instalación de luminarias, evitando la dispersión de esfuerzos. Por su
+parte, automatizar flujos de datos mediante n8n agiliza la gestión de denuncias o
+peticiones al conectar formularios web directamente con canales grupales. De esta
+manera, Telegram funciona como un puente de comunicación masiva e instantánea que
+mantiene informada a toda la comunidad en tiempo real. Esta combinación tecnológica
+optimiza el tiempo, fortalece la veeduría ciudadana y hace más eficientes las obras.
+

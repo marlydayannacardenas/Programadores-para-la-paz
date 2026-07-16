@@ -1,0 +1,4 @@
+Pregunta 1: B. Una lista priorizada de tareas o funcionalidades por desarrollar.
+Pregunta 2: B. Una forma breve de expresar qué necesita un usuario y para qué lo necesita.
+Pregunta 3: B. Automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+Pregunta 4: B. Como canal de coordinación, convocatoria y notificación comunitaria.

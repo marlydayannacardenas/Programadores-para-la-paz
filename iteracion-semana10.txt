@@ -1,0 +1,15 @@
+PLAN DE ITERACIÓN - SEMANA 10
+
+1. ¿Qué 2 tareas del backlog harías primero?
+- Tarea 1: El formulario o sistema para que el vecino reporte la vía o luminaria dañada.
+- Tarea 2: La integración con Telegram para que el coordinador reciba las alertas de los reportes.
+
+2. ¿Por qué son las más importantes?
+Porque sin el reporte inicial del vecino no existe información para trabajar, y sin la alerta inmediata el coordinador no se enteraría a tiempo para gestionar la ayuda. Estas dos funciones resuelven el problema central de comunicación rápidamente.
+
+3. ¿Qué significa para ti que una tarea esté "terminada"?
+Para mí, una tarea está terminada cuando cumple los siguientes criterios:
+- Criterio 1: Funciona correctamente (se puede enviar el reporte y llega la alerta).
+- Criterio 2: Fue probada por otra persona del equipo sin dar errores.
+- Criterio 3: El código y los archivos están guardados y registrados en Git.
+

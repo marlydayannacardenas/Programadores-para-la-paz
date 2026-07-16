@@ -1,0 +1,12 @@
+DISEÑO DE AUTOMATIZACIÓN (n8n + Telegram)
+
+- ¿Qué evento activa el flujo?
+El flujo se activa (Trigger) cuando un ciudadano envía un nuevo formulario web reportando una incidencia comunitaria (vía dañada, falta de alumbrado, etc.).
+
+- ¿Qué mensaje se enviaría a Telegram?
+Se enviaría un mensaje al grupo de coordinación que diga: 
+"⚠️ ¡Nuevo reporte comunitario registrado! Un ciudadano ha reportado una incidencia de infraestructura. Por favor, revisar la plataforma de control para asignar los materiales y el equipo de trabajo."
+
+- ¿Qué información NO debería enviarse por seguridad?
+Por seguridad y protección de datos, nunca deben enviarse por Telegram datos sensibles del ciudadano como su nombre completo, número de cédula, dirección exacta de su casa personal, número de teléfono o contraseñas. Telegram solo debe recibir la alerta general y el tipo de daño detectado.
+
